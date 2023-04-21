@@ -3,7 +3,6 @@ Esp8266 Color Picker is a program that communicates with an Esp8266 module to co
 
 <p float="left" align="center" padding="10px">
   <video src="https://user-images.githubusercontent.com/21333005/233748966-75803efa-763f-4094-8f32-56f1a11c4975.mp4"/>
-  <img src="https://user-images.githubusercontent.com/21333005/233623935-8b9fa9fb-4ff4-4dde-83d0-511920248e5c.gif"/>
 </p>
 
 ## Features
