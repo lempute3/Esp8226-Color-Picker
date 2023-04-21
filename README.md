@@ -1,5 +1,5 @@
-# Esp8226 Color Picker: Controlling WS2812B Addressable RGB LED Strip
-Esp8226 Color Picker is a program that communicates with an ESP8226 module to control the colors, animations, and status of a WS2812B LED strip via UDP protocol over Wi-Fi.
+# Esp8266 Color Picker: Controlling WS2812B Addressable RGB LED Strip
+Esp8266 Color Picker is a program that communicates with an Esp8266 module to control the colors, animations, and status of a WS2812B LED strip via UDP protocol over Wi-Fi.
 
 <p float="left" align="center" padding="10px">
   <img src="https://user-images.githubusercontent.com/21333005/233623935-8b9fa9fb-4ff4-4dde-83d0-511920248e5c.gif"/>
@@ -13,7 +13,7 @@ Esp8226 Color Picker is a program that communicates with an ESP8226 module to co
 ## Technologies Used
 - Python
 - PySide6
-- ESP8226 module
+- Esp8266 module
 - Arduino C++
 - NeoPixel Adafruit
 - Wifi UDP protocol
