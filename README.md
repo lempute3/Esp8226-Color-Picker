@@ -7,7 +7,8 @@ Esp8266 Color Picker is a program that communicates with an Esp8266 module to co
 
 ## Features
 - Control LED Strip: Users can control the colors, animations, and status of a WS2812B LED strip by sending UDP packets to the ESP8226 module.
-- Easy to Use: The app has a simple and intuitive interface, making it easy for users to control their LED strip.
+- Dynamic Gradient Color Slider: The app features a dynamic color gradient slider that allows users to easily select and apply gradient color patterns to their LED strip.
+- Simple and Intuitive Interface: The app has a simple and intuitive interface that makes it easy for users to control their LED strip without any technical knowledge.
 
 ## Technologies Used
 - Python
