@@ -22,3 +22,4 @@ Esp8266 Color Picker is a program that communicates with an Esp8266 module to co
 - More base functionality options 
 - Master/Slave LED strip modulation via ESP-NOW - Peer to Peer ESP32 Network
 - Reactive LED Strip to sound/music with graphical visualizer
+- Ambilight integration: Sync LED strip with on-screen content to create an immersive viewing experience.
