@@ -17,3 +17,7 @@ Esp8266 Color Picker is a program that communicates with an Esp8266 module to co
 - Arduino C++
 - NeoPixel Adafruit
 - Wifi UDP protocol
+
+## Upcoming Features
+- LED lights synchronized to sound/music with graphical visualizer.
+- Master/Slave LED strip modulation.
