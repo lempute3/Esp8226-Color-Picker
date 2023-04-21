@@ -11,6 +11,8 @@ Esp8226 Color Picker is a program that communicates with an ESP8226 module to co
 - Easy to Use: The app has a simple and intuitive interface, making it easy for users to control their LED strip.
 
 ## Technologies Used
-- ESP8226 module
-- UDP protocol
+- Python
 - PySide6
+- ESP8226 module
+- Arduino C++
+- Wifi UDP protocol
