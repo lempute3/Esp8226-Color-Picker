@@ -15,4 +15,5 @@ Esp8226 Color Picker is a program that communicates with an ESP8226 module to co
 - PySide6
 - ESP8226 module
 - Arduino C++
+- NeoPixel Adafruit
 - Wifi UDP protocol
